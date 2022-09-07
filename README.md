@@ -1,2 +1,7 @@
-# Next.js + Tailwind CSS Example
-This example shows how to use Tailwind CSS (v3.0) with Next.js. It follows the steps outlined in the official Tailwind docs.
+# How to use
+Execute create-next-app with npm or Yarn to bootstrap the example:
+
+npx create-next-app --example with-tailwindcss with-tailwindcss-app
+# or
+yarn create next-app --example with-tailwindcss with-tailwindcss-app
+Deploy it to the cloud with Vercel (Documentation).
