@@ -24,3 +24,12 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 
 # CREATE .env.local file:
 Put inside this file the api key that you can get it from tmdb.
+# Login page
+![Screenshot (187)](https://user-images.githubusercontent.com/101974539/188832816-39ed0302-10b3-4ae6-8f6d-87314a7a5782.png)
+# Choosing plan page
+![Screenshot (188)](https://user-images.githubusercontent.com/101974539/188832891-8965b7b3-3383-45a1-bf22-0afbc13ede40.png)
+# Home page
+![Screenshot (184)](https://user-images.githubusercontent.com/101974539/188832961-130e70dc-58c9-4b2f-9577-bff20a564830.png)
+![Screenshot (185)](https://user-images.githubusercontent.com/101974539/188832984-669b2461-19b2-4e17-8cae-849930cb6135.png)
+# Setting
+![Screenshot (186)](https://user-images.githubusercontent.com/101974539/188833081-f5333b0f-cce3-4fe6-8acc-2e123aac8ee4.png)
