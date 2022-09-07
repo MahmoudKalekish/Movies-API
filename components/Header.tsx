@@ -44,9 +44,9 @@ function Header() {
             Home
           </li>
           <li className="headerLink">TV Shows</li>
-          <Link href="/Movies">
+         
           <li className="headerLink">Movies</li>
-          </Link>
+          
           <li className="headerLink">New & Popular</li>
           <li className="headerLink">My List</li>
           <Link href="/contact">
